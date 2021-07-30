@@ -1,4 +1,5 @@
 import { Queue } from "./Queue";
+import Stack from "./Stack";
 
 
 /**
@@ -39,7 +40,7 @@ class Graph {
     bsf = (v, cb) => {
         let color = this.initializeColor()
         let queue = new Queue()
-        
+
         queue.enqueue(v)
         while (queue.items.length !== 0) {
             let u = queue.dequeue()
@@ -49,7 +50,7 @@ class Graph {
             nighbours.forEach(w => {
                 if (color[w] == 'white') {
                     color[w] = 'grey';
-                 
+
                     queue.enqueue(w)
                 }
             })
@@ -57,7 +58,7 @@ class Graph {
             if (cb) {
                 cb(u)
             }
-         
+
 
         }
 
@@ -89,7 +90,7 @@ class Graph {
             nighbours.forEach(w => {
                 if (color[w] == 'white') {
                     color[w] = 'grey';
-                    d[w] = d[u] + 1 
+                    d[w] = d[u] + 1
                     pred[w] = u
                     queue.enqueue(w)
                 }
@@ -98,15 +99,34 @@ class Graph {
             if (cb) {
                 cb(u)
             }
-            
+
         }
 
         return {
             distances: d,
-            predecessors : pred
+            predecessors: pred
         }
 
 
+    }
+
+    /**
+     * Shortest path from vertex @var U to @var W
+     * @param u 
+     * @param w 
+     * @returns the path
+     */
+    pathFromTo = (u, w) => {
+        let path = new Stack()
+
+        let short = this.BSF(u, null)
+        for (var v = w; v !== u;
+            v = short.predecessors[v]) { //{13}
+            path.push(v); //{14}
+        }
+        path.push(u)
+
+        return path.toString()
     }
 
     printNode(val) {

@@ -17,14 +17,15 @@ vetr.forEach(vertix => {
 // 
 
 const graph = `
-I---E
-|
-c --  A -- B ---F
-|     |
-|   \  |
-G ---  D      
-|
-H
+//                    I---E
+//                        |
+//             c --  A -- B ---F
+//             |  \   |
+//             |   \  |
+//             G ---  D      
+//                    |
+//                    H
+// 
 
 
 
@@ -48,5 +49,11 @@ g.showGraph()
 
 let m = g.BSF(vetr[0],g.printNode)
 console.log(m);
+
+vetr.forEach(vertex => {
+    let path = g.pathFromTo('A',vertex)
+    console.log(path);
+    
+})
 
 
