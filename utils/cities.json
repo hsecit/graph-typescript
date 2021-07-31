@@ -1,0 +1,1731 @@
+[{
+    "id": null,
+    "name": "",
+    "population": "",
+    "region": ""
+}, {
+    "id": 1,
+    "name": "Casablanca",
+    "population": "2,936,874",
+    "region": "Grand Casablanca"
+}, {
+    "id": 2,
+    "name": "Fes",
+    "population": "944,376",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 3,
+    "name": "Salé",
+    "population": "814,871",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 4,
+    "name": "Marrakech",
+    "population": "794,620",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 5,
+    "name": "Tangier",
+    "population": "664,295",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 6,
+    "name": "Rabat",
+    "population": "620,996",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 7,
+    "name": "Meknes",
+    "population": "535,066",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 8,
+    "name": "Oujda",
+    "population": "398,131",
+    "region": "Oriental"
+}, {
+    "id": 9,
+    "name": "Kenitra",
+    "population": "352,058",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 10,
+    "name": "Agadir",
+    "population": "344,422",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 11,
+    "name": "Tetuan",
+    "population": "318,698",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 12,
+    "name": "Safi",
+    "population": "282,227",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 13,
+    "name": "Temara",
+    "population": "225,084",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 14,
+    "name": "Inzegan",
+    "population": "198,879",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 15,
+    "name": "Mohammedia",
+    "population": "187,708",
+    "region": "Grand Casablanca"
+}, {
+    "id": 16,
+    "name": "Laayoune",
+    "population": "179,542",
+    "region": "Laayoune-Boujdour-Sakia El Hamra"
+}, {
+    "id": 17,
+    "name": "Khouribga",
+    "population": "165,976",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 18,
+    "name": "Beni Mellal",
+    "population": "162,341",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 19,
+    "name": "Jdida",
+    "population": "143,419",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 20,
+    "name": "Taza",
+    "population": "137,778",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 21,
+    "name": "Ait Melloul",
+    "population": "130,105",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 22,
+    "name": "Nador",
+    "population": "124,915",
+    "region": "Oriental"
+}, {
+    "id": 23,
+    "name": "Settat",
+    "population": "116,548",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 24,
+    "name": "Ksar El Kbir",
+    "population": "107,120",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 25,
+    "name": "Larache",
+    "population": "106,895",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 26,
+    "name": "Khmisset",
+    "population": "104,769",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 27,
+    "name": "Guelmim",
+    "population": "95,599",
+    "region": "Guelmim-Es Semara"
+}, {
+    "id": 28,
+    "name": "Berrechid",
+    "population": "89,551",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 29,
+    "name": "Wad Zam",
+    "population": "83,931",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 30,
+    "name": "Fkih BenSaleh",
+    "population": "82,407",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 31,
+    "name": "Taourirt",
+    "population": "79,664",
+    "region": "Oriental"
+}, {
+    "id": 32,
+    "name": "Berkane",
+    "population": "79,570",
+    "region": "Oriental"
+}, {
+    "id": 33,
+    "name": "Sidi Sliman",
+    "population": "78,036",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 34,
+    "name": "Errachidia",
+    "population": "75,239",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 35,
+    "name": "Sidi Kacem",
+    "population": "74,036",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 36,
+    "name": "Khenifra",
+    "population": "71,522",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 37,
+    "name": "Tifelt",
+    "population": "69,640",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 38,
+    "name": "Essaouira",
+    "population": "69,005",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 39,
+    "name": "Taroudant",
+    "population": "68,726",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 40,
+    "name": "Kelaat Sraghna",
+    "population": "68,253",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 41,
+    "name": "Oulad Teima",
+    "population": "66,159",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 42,
+    "name": "Youssoufia",
+    "population": "64,391",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 43,
+    "name": "Sefrou",
+    "population": "63,872",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 44,
+    "name": "Ben Guerir",
+    "population": "62,693",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 45,
+    "name": "Tan-Tan",
+    "population": "60,560",
+    "region": "Guelmim-Es Semara"
+}, {
+    "id": 46,
+    "name": "Ouazzane",
+    "population": "57,367",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 47,
+    "name": "Guercif",
+    "population": "56,526",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 48,
+    "name": "Dakhla",
+    "population": "55,618",
+    "region": "Oued Ed-Dahab-Lagouira"
+}, {
+    "id": 49,
+    "name": "Hoceima",
+    "population": "54,333",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 50,
+    "name": "Fnideq",
+    "population": "53,526",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 51,
+    "name": "Ouarzazate",
+    "population": "53,489",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 52,
+    "name": "Tiznit",
+    "population": "53,441",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 53,
+    "name": "Suq Sebt Oulad Nama",
+    "population": "51,029",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 54,
+    "name": "Azrou",
+    "population": "47,535",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 55,
+    "name": "Lahraouyine",
+    "population": "47,261",
+    "region": "Grand Casablanca"
+}, {
+    "id": 56,
+    "name": "Bensliman",
+    "population": "45,195",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 57,
+    "name": "Midelt",
+    "population": "44,730",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 58,
+    "name": "Jrada",
+    "population": "43,870",
+    "region": "Oriental"
+}, {
+    "id": 59,
+    "name": "Skhirat",
+    "population": "42,580",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 60,
+    "name": "Souk Larbaa",
+    "population": "42,338",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 61,
+    "name": "Aïn Harrouda",
+    "population": "41,853",
+    "region": "Grand Casablanca"
+}, {
+    "id": 62,
+    "name": "Bejaad",
+    "population": "40,512",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 63,
+    "name": "Kasbat Tadla",
+    "population": "39,887",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 64,
+    "name": "Sidi Bennour",
+    "population": "39,593",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 65,
+    "name": "Martil",
+    "population": "39,011",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 66,
+    "name": "Lqliaa",
+    "population": "38,220",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 67,
+    "name": "Boujdor",
+    "population": "36,731",
+    "region": "Laayoune-Boujdour-Sakia El Hamra"
+}, {
+    "id": 68,
+    "name": "Azemour",
+    "population": "36,722",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 69,
+    "name": "M'dyaq",
+    "population": "36,596",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 70,
+    "name": "Tinghir",
+    "population": "36,388",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 71,
+    "name": "El Arwi",
+    "population": "36,021",
+    "region": "Oriental"
+}, {
+    "id": 72,
+    "name": "Chefchawn",
+    "population": "35,709",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 73,
+    "name": "M'Rirt",
+    "population": "35,196",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 74,
+    "name": "Zagora",
+    "population": "34,851",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 75,
+    "name": "El Aioun Sidi Mellouk",
+    "population": "34,767",
+    "region": "Oriental"
+}, {
+    "id": 76,
+    "name": "Lamkansa",
+    "population": "33,940",
+    "region": "Grand Casablanca"
+}, {
+    "id": 77,
+    "name": "Smara",
+    "population": "33,910",
+    "region": "Guelmim-Es Semara"
+}, {
+    "id": 78,
+    "name": "Taounate",
+    "population": "32,600",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 79,
+    "name": "Bin Anşār",
+    "population": "31,800",
+    "region": "Oriental"
+}, {
+    "id": 80,
+    "name": "Sidi Yahya El Gharb",
+    "population": "31,705",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 81,
+    "name": "Zaio",
+    "population": "29,851",
+    "region": "Oriental"
+}, {
+    "id": 82,
+    "name": "Amalou Ighriben",
+    "population": "28,933",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 83,
+    "name": "Assilah",
+    "population": "28,120",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 84,
+    "name": "Azilal",
+    "population": "27,711",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 85,
+    "name": "Mechra Bel Ksiri",
+    "population": "27,619",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 86,
+    "name": "El Hajeb",
+    "population": "27,132",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 87,
+    "name": "Bouznika",
+    "population": "27,028",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 88,
+    "name": "Imzouren",
+    "population": "26,474",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 89,
+    "name": "Tahla",
+    "population": "25,655",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 90,
+    "name": "BouiZazarene Ihaddadene",
+    "population": "25,480",
+    "region": "Oriental"
+}, {
+    "id": 91,
+    "name": "Ain El Aouda",
+    "population": "25,105",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 92,
+    "name": "Bouarfa",
+    "population": "24,527",
+    "region": "Oriental"
+}, {
+    "id": 93,
+    "name": "Arfoud",
+    "population": "23,622",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 94,
+    "name": "Demnate",
+    "population": "23,453",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 95,
+    "name": "Sidi sliman echraa",
+    "population": "22,889",
+    "region": "Oriental"
+}, {
+    "id": 96,
+    "name": "Zawiyat cheikh",
+    "population": "22,727",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 97,
+    "name": "Ain Taoujdat",
+    "population": "22,028",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 98,
+    "name": "Echemaia",
+    "population": "21,859",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 99,
+    "name": "Aourir",
+    "population": "21,796",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 100,
+    "name": "Sabaa Aiyoun",
+    "population": "21,501",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 101,
+    "name": "Oulad Ayad",
+    "population": "21,466",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 102,
+    "name": "Ben Ahmed",
+    "population": "21,360",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 103,
+    "name": "Tabounte",
+    "population": "21,157",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 104,
+    "name": "Jorf El Melha",
+    "population": "20,581",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 105,
+    "name": "Missour",
+    "population": "20,332",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 106,
+    "name": "Laataouia",
+    "population": "20,237",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 107,
+    "name": "Errich",
+    "population": "20,155",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 108,
+    "name": "Zeghanghan",
+    "population": "20,134",
+    "region": "Oriental"
+}, {
+    "id": 109,
+    "name": "Rissani",
+    "population": "20,126",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 110,
+    "name": "Sidi Taibi",
+    "population": "19,979",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 111,
+    "name": "Sidi Ifni",
+    "population": "19,967",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 112,
+    "name": "Ait Ourir",
+    "population": "19,864",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 113,
+    "name": "Ahfir",
+    "population": "19,477",
+    "region": "Oriental"
+}, {
+    "id": 114,
+    "name": "El Ksiba",
+    "population": "18,480",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 115,
+    "name": "El Gara",
+    "population": "18,070",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 116,
+    "name": "Drargua",
+    "population": "17,059",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 117,
+    "name": "Imin tanout",
+    "population": "17,051",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 118,
+    "name": "Goulmima",
+    "population": "16,582",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 119,
+    "name": "Karia Ba Mohamed",
+    "population": "16,549",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 120,
+    "name": "Mehdya",
+    "population": "16,258",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 121,
+    "name": "El Borouj",
+    "population": "16,222",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 122,
+    "name": "Bouhdila",
+    "population": "16,145",
+    "region": "Oriental"
+}, {
+    "id": 123,
+    "name": "Chichaoua",
+    "population": "15,643",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 124,
+    "name": "Beni Bouayach",
+    "population": "15,497",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 125,
+    "name": "Oulad Berhil",
+    "population": "15,334",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 126,
+    "name": "Jmaat Shaim",
+    "population": "15,325",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 127,
+    "name": "Bir Jdid",
+    "population": "15,267",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 128,
+    "name": "Tata",
+    "population": "15,192",
+    "region": "Guelmim-Es Semara"
+}, {
+    "id": 129,
+    "name": "Boujniba",
+    "population": "15,041",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 130,
+    "name": "Temsia",
+    "population": "14,894",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 131,
+    "name": "Mediouna",
+    "population": "14,653",
+    "region": "Grand Casablanca"
+}, {
+    "id": 132,
+    "name": "Kelat Megnouna",
+    "population": "14,190",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 133,
+    "name": "Sebt Gzoula",
+    "population": "13,943",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 134,
+    "name": "Outat El Haj",
+    "population": "13,938",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 135,
+    "name": "Imouzzer Kandar",
+    "population": "13,725",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 136,
+    "name": "Ain Bni Mathar",
+    "population": "13,526",
+    "region": "Oriental"
+}, {
+    "id": 137,
+    "name": "Bouskoura",
+    "population": "13,453",
+    "region": "Grand Casablanca"
+}, {
+    "id": 138,
+    "name": "Agourai",
+    "population": "13,291",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 139,
+    "name": "Midar",
+    "population": "13,229",
+    "region": "Oriental"
+}, {
+    "id": 140,
+    "name": "Lalla Mimouna",
+    "population": "12,967",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 141,
+    "name": "Ribat El Kheir",
+    "population": "12,654",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 142,
+    "name": "Moulay Driss zarhoun",
+    "population": "12,580",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 143,
+    "name": "Figuig",
+    "population": "12,516",
+    "region": "Oriental"
+}, {
+    "id": 144,
+    "name": "Boumia",
+    "population": "12,444",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 145,
+    "name": "Tamallalt",
+    "population": "12,176",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 146,
+    "name": "Nouaceur",
+    "population": "12,153",
+    "region": "Grand Casablanca"
+}, {
+    "id": 147,
+    "name": "Rommani",
+    "population": "12,149",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 148,
+    "name": "Jorf",
+    "population": "12,135",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 149,
+    "name": "Ifran",
+    "population": "12,104",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 150,
+    "name": "Bouizakarn",
+    "population": "11,982",
+    "region": "Guelmim-Es Semara"
+}, {
+    "id": 151,
+    "name": "Oulad Mbarek",
+    "population": "11,906",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 152,
+    "name": "Afourar",
+    "population": "11,898",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 153,
+    "name": "Zmamra",
+    "population": "11,896",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 154,
+    "name": "Ait Ishaq",
+    "population": "11,804",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 155,
+    "name": "Tit Mellil",
+    "population": "11,710",
+    "region": "Grand Casablanca"
+}, {
+    "id": 156,
+    "name": "Assa",
+    "population": "11,667",
+    "region": "Guelmim-Es Semara"
+}, {
+    "id": 157,
+    "name": "Bhalil",
+    "population": "11,638",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 158,
+    "name": "Targuist",
+    "population": "11,560",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 159,
+    "name": "Beni Yakhlef",
+    "population": "11,490",
+    "region": "Grand Casablanca"
+}, {
+    "id": 160,
+    "name": "El Menzel",
+    "population": "11,465",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 161,
+    "name": "Aguelmouss",
+    "population": "11,390",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 162,
+    "name": "Sidi EL Mokhtar",
+    "population": "11,080",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 163,
+    "name": "Boumalne Dades",
+    "population": "11,004",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 164,
+    "name": "Farkhana",
+    "population": "10,990",
+    "region": "Oriental"
+}, {
+    "id": 165,
+    "name": "Oulad Abbou",
+    "population": "10,748",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 166,
+    "name": "Amizmiz",
+    "population": "10,727",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 167,
+    "name": "Boulanouare",
+    "population": "10,469",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 168,
+    "name": "Ben Taieb",
+    "population": "10,446",
+    "region": "Oriental"
+}, {
+    "id": 169,
+    "name": "Ouled Frej",
+    "population": "10,387",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 170,
+    "name": "Driouch",
+    "population": "10,381",
+    "region": "Oriental"
+}, {
+    "id": 171,
+    "name": "Deroua",
+    "population": "10,373",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 172,
+    "name": "Hattane",
+    "population": "10,284",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 173,
+    "name": "El Marsa",
+    "population": "10,229",
+    "region": "Laayoune-Boujdour-Sakia El Hamra"
+}, {
+    "id": 174,
+    "name": "Tamanar",
+    "population": "9,968",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 175,
+    "name": "Ait Iaaza",
+    "population": "9,910",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 176,
+    "name": "Sidi Allal El Bahraoui",
+    "population": "9,884",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 177,
+    "name": "Dar Ould Zidouh",
+    "population": "9,821",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 178,
+    "name": "Sid Zouine",
+    "population": "9,802",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 179,
+    "name": "Boudnib",
+    "population": "9,718",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 180,
+    "name": "Foum Zguid",
+    "population": "9,611",
+    "region": "Guelmim-Es Semara"
+}, {
+    "id": 181,
+    "name": "Tissa",
+    "population": "9,566",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 182,
+    "name": "Jaadar",
+    "population": "9,497",
+    "region": "Oriental"
+}, {
+    "id": 183,
+    "name": "Oulmes",
+    "population": "9,460",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 184,
+    "name": "Bouknadel",
+    "population": "9,314",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 185,
+    "name": "Harhoura",
+    "population": "9,241",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 186,
+    "name": "El Guerdan",
+    "population": "9,220",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 187,
+    "name": "Selouane",
+    "population": "9,211",
+    "region": "Oriental"
+}, {
+    "id": 188,
+    "name": "Maaziz",
+    "population": "9,190",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 189,
+    "name": "Oulad M'Rah",
+    "population": "9,166",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 190,
+    "name": "Loudaya",
+    "population": "8,989",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 191,
+    "name": "Massa",
+    "population": "8,970",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 192,
+    "name": "Aklim",
+    "population": "8,969",
+    "region": "Oriental"
+}, {
+    "id": 193,
+    "name": "Ouaouizaght",
+    "population": "8,940",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 194,
+    "name": "Bni Drar",
+    "population": "8,919",
+    "region": "Oriental"
+}, {
+    "id": 195,
+    "name": "El Kbab",
+    "population": "8,541",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 196,
+    "name": "Oued Amlil",
+    "population": "8,246",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 197,
+    "name": "Sidi Rahel Chatai",
+    "population": "8,140",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 198,
+    "name": "Guigou",
+    "population": "7,976",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 199,
+    "name": "Agdz",
+    "population": "7,951",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 200,
+    "name": "Khnichet",
+    "population": "7,936",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 201,
+    "name": "Karia",
+    "population": "7,803",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 202,
+    "name": "Sidi Ahmed",
+    "population": "7,751",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 203,
+    "name": "Zag",
+    "population": "7,751",
+    "region": "Guelmim-Es Semara"
+}, {
+    "id": 204,
+    "name": "Oulad Yaich",
+    "population": "7,692",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 205,
+    "name": "Tinjdad",
+    "population": "7,481",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 206,
+    "name": "Ouad Laou",
+    "population": "7,478",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 207,
+    "name": "Tighassaline",
+    "population": "7,336",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 208,
+    "name": "Tounfite",
+    "population": "7,277",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 209,
+    "name": "Bni Tadjite",
+    "population": "7,209",
+    "region": "Oriental"
+}, {
+    "id": 210,
+    "name": "Bouanane",
+    "population": "7,209",
+    "region": "Oriental"
+}, {
+    "id": 211,
+    "name": "Oulad Hriz Sahel",
+    "population": "7,149",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 212,
+    "name": "Talsint",
+    "population": "7,098",
+    "region": "Oriental"
+}, {
+    "id": 213,
+    "name": "Taghjijt",
+    "population": "6,983",
+    "region": "Guelmim-Es Semara"
+}, {
+    "id": 214,
+    "name": "Boulman",
+    "population": "6,910",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 215,
+    "name": "Zirara",
+    "population": "6,707",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 216,
+    "name": "Taouima",
+    "population": "6,641",
+    "region": "Oriental"
+}, {
+    "id": 217,
+    "name": "Tahannaout",
+    "population": "6,582",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 218,
+    "name": "Bradia",
+    "population": "6,546",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 219,
+    "name": "Moulay Abdallah",
+    "population": "6,482",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 220,
+    "name": "Sidi Rahal",
+    "population": "6,352",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 221,
+    "name": "Tameslohte",
+    "population": "6,346",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 222,
+    "name": "Aghbala",
+    "population": "6,300",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 223,
+    "name": "El Ouatia",
+    "population": "6,294",
+    "region": "Guelmim-Es Semara"
+}, {
+    "id": 224,
+    "name": "Tendrara",
+    "population": "6,254",
+    "region": "Oriental"
+}, {
+    "id": 225,
+    "name": "Taznakht",
+    "population": "6,185",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 226,
+    "name": "Fam El Hisn",
+    "population": "6,183",
+    "region": "Guelmim-Es Semara"
+}, {
+    "id": 227,
+    "name": "Akka",
+    "population": "6,132",
+    "region": "Guelmim-Es Semara"
+}, {
+    "id": 228,
+    "name": "Dar Gueddari",
+    "population": "6,011",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 229,
+    "name": "Itzer",
+    "population": "5,947",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 230,
+    "name": "Taliouine",
+    "population": "5,832",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 231,
+    "name": "Oualidia",
+    "population": "5,826",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 232,
+    "name": "Aoulouz",
+    "population": "5,712",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 233,
+    "name": "Moulay Bousselham",
+    "population": "5,668",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 234,
+    "name": "Tarfaya",
+    "population": "5,615",
+    "region": "Laayoune-Boujdour-Sakia El Hamra"
+}, {
+    "id": 235,
+    "name": "Ghafsai",
+    "population": "5,492",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 236,
+    "name": "Foum Jemaa",
+    "population": "5,360",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 237,
+    "name": "Ain Leuh",
+    "population": "5,276",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 238,
+    "name": "Moulay Bouazza",
+    "population": "5,241",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 239,
+    "name": "Kariat Arkmane",
+    "population": "5,228",
+    "region": "Oriental"
+}, {
+    "id": 240,
+    "name": "Kahf Nsour",
+    "population": "5,089",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 241,
+    "name": "Sidi Bou Othmane",
+    "population": "5,066",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 242,
+    "name": "Oulad Tayeb",
+    "population": "5,056",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 243,
+    "name": "Had Kourt",
+    "population": "5,051",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 244,
+    "name": "Bab Berrad",
+    "population": "5,043",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 245,
+    "name": "Loulad",
+    "population": "5,025",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 246,
+    "name": "Zaida",
+    "population": "4,968",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 247,
+    "name": "Tafrawt",
+    "population": "4,924",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 248,
+    "name": "Khemis Sahel",
+    "population": "4,826",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 249,
+    "name": "Ait Baha",
+    "population": "4,767",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 250,
+    "name": "Biougra",
+    "population": "4,767",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 251,
+    "name": "Dar Bni Karrich",
+    "population": "4,743",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 252,
+    "name": "El Hanchane",
+    "population": "4,698",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 253,
+    "name": "Sidi Jaber",
+    "population": "4,693",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 254,
+    "name": "Irherm",
+    "population": "4,607",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 255,
+    "name": "Debdou",
+    "population": "4,575",
+    "region": "Oriental"
+}, {
+    "id": 256,
+    "name": "Ras El Ma",
+    "population": "4,532",
+    "region": "Oriental"
+}, {
+    "id": 257,
+    "name": "Laaounate",
+    "population": "4,465",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 258,
+    "name": "Hadj Kaddour",
+    "population": "4,362",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 259,
+    "name": "Skhour Rhamna",
+    "population": "4,352",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 260,
+    "name": "Bzou",
+    "population": "4,323",
+    "region": "Tadla-Azilal"
+}, {
+    "id": 261,
+    "name": "Ain Cheggag",
+    "population": "4,286",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 262,
+    "name": "Bouderbala",
+    "population": "4,258",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 263,
+    "name": "Sidi Smaïl",
+    "population": "4,243",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 264,
+    "name": "Oulad Zbair",
+    "population": "4,193",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 265,
+    "name": "Bni Chiker",
+    "population": "4,188",
+    "region": "Oriental"
+}, {
+    "id": 266,
+    "name": "Lakhsas",
+    "population": "4,178",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 267,
+    "name": "Talmest",
+    "population": "4,133",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 268,
+    "name": "Aknoul",
+    "population": "4,066",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 269,
+    "name": "Tiztoutine",
+    "population": "4,041",
+    "region": "Oriental"
+}, {
+    "id": 270,
+    "name": "Bab Taza",
+    "population": "4,006",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 271,
+    "name": "Imouzzer Marmoucha",
+    "population": "4,001",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 272,
+    "name": "Gourrama",
+    "population": "3,987",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 273,
+    "name": "Ajdir",
+    "population": "3,987",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 274,
+    "name": "Mhaya",
+    "population": "3,952",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 275,
+    "name": "Oulad Ghadbane",
+    "population": "3,889",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 276,
+    "name": "Zrarda",
+    "population": "3,860",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 277,
+    "name": "Zoumi",
+    "population": "3,830",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 278,
+    "name": "Ain Karma",
+    "population": "3,828",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 279,
+    "name": "Thar Essouk",
+    "population": "3,792",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 280,
+    "name": "Lagouira",
+    "population": "3,726",
+    "region": "Oued Ed-Dahab-Lagouira"
+}, {
+    "id": 281,
+    "name": "Ras El Ain",
+    "population": "3,638",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 282,
+    "name": "Sidi Ali Ben Hamdouche",
+    "population": "3,597",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 283,
+    "name": "Sebt Jahjouh",
+    "population": "3,585",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 284,
+    "name": "Tiddas",
+    "population": "3,584",
+    "region": "Rabat-Sale-Zemmour-Zaer"
+}, {
+    "id": 285,
+    "name": "Zaouiat Bougrin",
+    "population": "3,570",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 286,
+    "name": "Tafersit",
+    "population": "3,555",
+    "region": "Oriental"
+}, {
+    "id": 287,
+    "name": "Touissit",
+    "population": "3,429",
+    "region": "Oriental"
+}, {
+    "id": 288,
+    "name": "Saidia",
+    "population": "3,338",
+    "region": "Oriental"
+}, {
+    "id": 289,
+    "name": "Lalla Takarkoust",
+    "population": "3,337",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 290,
+    "name": "Skhinate",
+    "population": "3,317",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 291,
+    "name": "Moulay Brahim",
+    "population": "3,252",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 292,
+    "name": "Soualem",
+    "population": "3,243",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 293,
+    "name": "Gueznaia",
+    "population": "3,187",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 294,
+    "name": "Moulay Yacoub",
+    "population": "3,153",
+    "region": "Fès-Boulemane"
+}, {
+    "id": 295,
+    "name": "Sidi Allal Tazi",
+    "population": "3,140",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 296,
+    "name": "Laakarta",
+    "population": "3,116",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 297,
+    "name": "Alnif",
+    "population": "3,072",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 298,
+    "name": "Dar El Kebdani",
+    "population": "2,990",
+    "region": "Oriental"
+}, {
+    "id": 299,
+    "name": "Jebha",
+    "population": "2,984",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 300,
+    "name": "Ain Erreggada",
+    "population": "2,975",
+    "region": "Oriental"
+}, {
+    "id": 301,
+    "name": "Sidi Addi",
+    "population": "2,895",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 302,
+    "name": "Skoura",
+    "population": "2,808",
+    "region": "Souss-Massa-Draa"
+}, {
+    "id": 303,
+    "name": "Smimou",
+    "population": "2,675",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 304,
+    "name": "Ain Jemaa",
+    "population": "2,610",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 305,
+    "name": "Timahdite",
+    "population": "2,507",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 306,
+    "name": "Aït Dawd",
+    "population": "2,497",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 307,
+    "name": "Souk EL Had",
+    "population": "2,488",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 308,
+    "name": "Had Bouhssoussen",
+    "population": "2,421",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 309,
+    "name": "Oulad Said",
+    "population": "2,396",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 310,
+    "name": "Arbaoua",
+    "population": "2,333",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 311,
+    "name": "Ain Dorij",
+    "population": "2,321",
+    "region": "Gharb-Chrarda-Beni Hssen"
+}, {
+    "id": 312,
+    "name": "Madagh",
+    "population": "2,312",
+    "region": "Oriental"
+}, {
+    "id": 313,
+    "name": "Tighza",
+    "population": "2,217",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 314,
+    "name": "Matmata",
+    "population": "2,194",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 315,
+    "name": "Kourouna",
+    "population": "2,188",
+    "region": "Oriental"
+}, {
+    "id": 316,
+    "name": "Kassita",
+    "population": "2,126",
+    "region": "Oriental"
+}, {
+    "id": 317,
+    "name": "Bni Hadifa",
+    "population": "2,061",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 318,
+    "name": "Oued EL Heimar",
+    "population": "1,997",
+    "region": "Oriental"
+}, {
+    "id": 319,
+    "name": "Kerrouchen",
+    "population": "1,967",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 320,
+    "name": "Tainaste",
+    "population": "1,905",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 321,
+    "name": "Guisser",
+    "population": "1,890",
+    "region": "Chaouia-Ouardigha"
+}, {
+    "id": 322,
+    "name": "Sidi Boubker",
+    "population": "1,878",
+    "region": "Oriental"
+}, {
+    "id": 323,
+    "name": "Tamassint",
+    "population": "1,788",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 324,
+    "name": "Assahrij",
+    "population": "1,732",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 325,
+    "name": "Aghbalou Nssardane",
+    "population": "1,703",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 326,
+    "name": "Tizi Ouasli",
+    "population": "1,695",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 327,
+    "name": "Moqrisset",
+    "population": "1,680",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 328,
+    "name": "Sebt Lamaarif",
+    "population": "1,638",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 329,
+    "name": "Issaguen",
+    "population": "1,638",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 330,
+    "name": "Bouguedra",
+    "population": "1,558",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 331,
+    "name": "Brikcha",
+    "population": "1,510",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 332,
+    "name": "Ighoud",
+    "population": "1,475",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 333,
+    "name": "Ajdir, Taza",
+    "population": "1,451",
+    "region": "Taza-Al Hoceima-Taounate"
+}, {
+    "id": 334,
+    "name": "Oulad Amrane",
+    "population": "1,443",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 335,
+    "name": "Kettara",
+    "population": "1,365",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 336,
+    "name": "Aoufous",
+    "population": "1,272",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 337,
+    "name": "Tafetacht",
+    "population": "1,174",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 338,
+    "name": "Naïma",
+    "population": "1,151",
+    "region": "Oriental"
+}, {
+    "id": 339,
+    "name": "Tnin Sidi Lyamani",
+    "population": "1,101",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 340,
+    "name": "Karia",
+    "population": "1,100",
+    "region": "Tangier-Tetouan"
+}, {
+    "id": 341,
+    "name": "Nzalat",
+    "population": "1,070",
+    "region": "Meknes-Tafilalet"
+}, {
+    "id": 342,
+    "name": "Ahrara",
+    "population": "1,028",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 343,
+    "name": "Sidi Abdallah Ghiat",
+    "population": "986",
+    "region": "Marrakech-Tensift-El Haouz"
+}, {
+    "id": 344,
+    "name": "Sidi Bouzid",
+    "population": "981",
+    "region": "Doukkala-Abda"
+}, {
+    "id": 345,
+    "name": "Ounagha",
+    "population": "912",
+    "region": "Marrakech-Tensift-El Haouz"
+}]
